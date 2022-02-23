@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Sabrena Islam
 - 👀 I’m interested in App development
-- 🌱 I’m currently learning App development on Flutter
+- 🌱 I’m currently learning App development on Flutter and Java
 - 📫 How to reach me sabrenaislam3@gmail.com
